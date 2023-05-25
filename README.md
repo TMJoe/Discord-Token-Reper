@@ -80,3 +80,6 @@
 
 •Self Destruct
 
+**Installation**
+1. Download Python:
+2. Run the python:
